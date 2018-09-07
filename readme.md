@@ -1,5 +1,7 @@
 # Tooples
 
+[![Build Status](https://travis-ci.org/cjdelisle/tooples.rs.svg?branch=master)](https://travis-ci.org/cjdelisle/tooples.rs)
+
 Array functions for tuples.
 
 In dynamic languages like javascript, you can just make an array of any types of elements
