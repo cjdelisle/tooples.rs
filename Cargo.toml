@@ -1,0 +1,6 @@
+[package]
+name = "tooples"
+version = "0.1.0"
+authors = ["Caleb James DeLisle <cjd@cjdns.fr>"]
+
+[dependencies]
