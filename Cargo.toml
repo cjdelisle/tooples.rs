@@ -2,5 +2,7 @@
 name = "tooples"
 version = "0.1.0"
 authors = ["Caleb James DeLisle <cjd@cjdns.fr>"]
+description = "Array functions for tuples"
+license = "MIT"
 
 [dependencies]
